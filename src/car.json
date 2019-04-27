@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "image": "audi.jpg"
+    },
+    {
+      "id": 2,
+      "image": "beetle.jpg"    
+    },
+    {
+      "id": 3,
+      "image": "bmw.jpg"
+    },
+    {
+      "id": 4,
+      "image": "chevy.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "fiesta.jpg"
+    },
+    {
+      "id": 6,
+      "image": "jeep.jpg"
+    },
+    {
+      "id": 7,
+      "image": "kia.jpg"
+    },
+    {
+      "id": 8,
+      "image": "Mercedes.jpg"
+    },
+    {
+      "id": 9,
+      "image": "mini.jpg"
+    },
+    {
+      "id": 10,
+      "image": "Mitsubishi.jpg"
+    },
+    {
+      "id": 11,
+      "image": "subaru.jpg"
+    },
+    {
+      "id": 12,
+      "image": "tesla.jpg"
+    }
+  ]
+  
