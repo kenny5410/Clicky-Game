@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/kenny5410/clicky-game/static/css/main.8b7bec54.chunk.css",
+    "main.js": "/kenny5410/clicky-game/static/js/main.4b588296.chunk.js",
+    "main.js.map": "/kenny5410/clicky-game/static/js/main.4b588296.chunk.js.map",
+    "runtime~main.js": "/kenny5410/clicky-game/static/js/runtime~main.6be39ec9.js",
+    "runtime~main.js.map": "/kenny5410/clicky-game/static/js/runtime~main.6be39ec9.js.map",
+    "static/js/2.98dcc9dd.chunk.js": "/kenny5410/clicky-game/static/js/2.98dcc9dd.chunk.js",
+    "static/js/2.98dcc9dd.chunk.js.map": "/kenny5410/clicky-game/static/js/2.98dcc9dd.chunk.js.map",
+    "index.html": "/kenny5410/clicky-game/index.html",
+    "precache-manifest.964d3817e0da7bf86a1aabfc514c0d4e.js": "/kenny5410/clicky-game/precache-manifest.964d3817e0da7bf86a1aabfc514c0d4e.js",
+    "service-worker.js": "/kenny5410/clicky-game/service-worker.js",
+    "static/css/main.8b7bec54.chunk.css.map": "/kenny5410/clicky-game/static/css/main.8b7bec54.chunk.css.map",
+    "static/media/Mercedes.jpg": "/kenny5410/clicky-game/static/media/Mercedes.97a5a18c.jpg",
+    "static/media/Mitsubishi.jpg": "/kenny5410/clicky-game/static/media/Mitsubishi.58a45720.jpg",
+    "static/media/audi.jpg": "/kenny5410/clicky-game/static/media/audi.9ef29e20.jpg",
+    "static/media/beetle.jpg": "/kenny5410/clicky-game/static/media/beetle.6a8c7fda.jpg",
+    "static/media/bmw.jpg": "/kenny5410/clicky-game/static/media/bmw.a4f3ef30.jpg",
+    "static/media/chevy.jpg": "/kenny5410/clicky-game/static/media/chevy.3af7fdad.jpg",
+    "static/media/fiesta.jpg": "/kenny5410/clicky-game/static/media/fiesta.86b6b8af.jpg",
+    "static/media/jeep.jpg": "/kenny5410/clicky-game/static/media/jeep.28c07304.jpg",
+    "static/media/kia.jpg": "/kenny5410/clicky-game/static/media/kia.107fed5b.jpg",
+    "static/media/mini.jpg": "/kenny5410/clicky-game/static/media/mini.79fc4ec9.jpg",
+    "static/media/subaru.jpg": "/kenny5410/clicky-game/static/media/subaru.dd732913.jpg",
+    "static/media/tesla.jpg": "/kenny5410/clicky-game/static/media/tesla.df2ba14b.jpg"
+  }
+}
